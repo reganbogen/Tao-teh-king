@@ -1,0 +1,33 @@
+/* -- LAYOUT -- */
+html {
+  background-color: black;
+  font-family: "Beth Ellen", "VT323", monospace;
+}
+
+body {
+  background-color: black;
+}
+
+/* -- PARTICLES -- */
+
+.particles-js-canvas-el {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: auto;
+}
+
+
+/*-- TAO stuff --*/
+#taoText {
+  color: white;
+}
+
+.taoBody {
+  font-family: "Sirin Stencil", cursive;
+  color: darkgoldenrod;
+  margin: 3% 0;
+  font-size: 150%;
+}
+
